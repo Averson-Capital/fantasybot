@@ -1,0 +1,8 @@
+requests
+requests_cache
+pandas
+bs4
+html5lib
+fastparquet
+boto3
+progress
